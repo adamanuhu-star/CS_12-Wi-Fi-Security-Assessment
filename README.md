@@ -5,6 +5,7 @@ Fellow ID: FE/26/4246539238
 Program: Federal Ministry of Communications, Innovation & Digital Economy — 3 Million Technical Talents (3MTT)
 Track: Cybersecurity
 Status: ✅ Completed
+Live Portfolio: adamanuhu.github.io/CS_12-Wi-Fi-Security-Assessment
 ________________________________________
 📋 Project Overview
 An ethical, lab-based wireless security assessment conducted on an isolated, self-owned network environment. This capstone demonstrates proficiency in network reconnaissance, vulnerability identification, evidence collection, and remediation hardening — core competencies for entry-level cybersecurity operations.
@@ -96,6 +97,8 @@ Neighboring networks detected during passive scanning were not subjected to any 
 This assessment adheres to the Nigerian Cybercrimes Act and ethical hacking best practices.
 ________________________________________
 📬 Connect
+•	GitHub: github.com/adamanuhu/CS_12-Wi-Fi-Security-Assessment
+•	Live Site: adamanuhu.github.io/CS_12-Wi-Fi-Security-Assessment
 •	LinkedIn: linkedin.com/in/adamanuhu
 •	Email: adama.nuhu@miva.edu.ng
 •	3MTT Profile: Fellow ID FE/26/4246539238
